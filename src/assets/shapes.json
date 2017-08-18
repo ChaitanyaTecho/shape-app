@@ -1,0 +1,35 @@
+[{
+        "id": 1,
+        "name": "Rectangle",
+        "Rectangle": [
+            "width",
+            "length"
+        ],
+        "formula": "width * length"
+    },
+    {
+        "id": 2,
+        "name": "Circle",
+        "Circle": [
+            "radius"
+        ],
+        "formula": "pi * radius * radius"
+    },
+    {
+        "id": 3,
+        "name": "Square",
+        "Square": [
+            "width"
+        ],
+        "formula": "width * width"
+    },
+    {
+        "id": 4,
+        "name": "Ellipse",
+        "Ellipse": [
+            "A axis",
+            "B Axis"
+        ],
+        "formula": "pi * A Axis * B Axis"
+    }
+]
